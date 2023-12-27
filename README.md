@@ -1,7 +1,8 @@
 ### Hi there 👋, my name is Aathif
 #### Computer Science Student
 
-![image](https://github.com/zaxnite/Aathif_Khan/assets/65447745/4d001993-a0f1-485b-a9dd-6389c053348f)
+![image](https://github.com/zaxnite/Aathif_Khan/assets/65447745/e8ad6c3e-ac3f-46d2-b8fc-7d40cb1fccbc)
+
 
 
 I have a great interest in Machine Learning, Full-Stack Dev, Artificial intelligence, and everything in between.
