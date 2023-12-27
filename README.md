@@ -1,5 +1,4 @@
-### Hi there 👋, my name is Aathif
-#### Computer Science Student
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2FDCB4&random=false&width=435&lines=hi%2C+Aathif+here!;I'm+a+Computer+Science+Student+at+RIT)](https://git.io/typing-svg)
 
 ![Screenshot 2023-12-27 192856](https://github.com/zaxnite/Aathif_Khan/assets/65447745/805ea68d-5fb7-4e1f-b8fe-2a84ed9c81e2)
 
