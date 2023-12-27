@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2FDCB4&random=false&width=435&lines=hi%2C+Aathif+here!;I'm+a+Computer+Science+Student+at+RIT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2FDCB4&random=false&width=435&lines=hi%2C+Aathif+here!;I'm+a+Computer+Science+Student)](https://git.io/typing-svg)
 
 ![github-header-image](https://github.com/zaxnite/Aathif_Khan/assets/65447745/b0bf3255-90bd-4f28-828d-40b9eab237d2)
 
