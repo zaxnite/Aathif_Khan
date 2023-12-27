@@ -1,7 +1,8 @@
 ### Hi there 👋, my name is Aathif
 #### Computer Science Student
 
-![image](https://github.com/zaxnite/Aathif_Khan/assets/65447745/e8ad6c3e-ac3f-46d2-b8fc-7d40cb1fccbc)
+![Screenshot 2023-12-27 192856](https://github.com/zaxnite/Aathif_Khan/assets/65447745/805ea68d-5fb7-4e1f-b8fe-2a84ed9c81e2)
+
 
 
 
